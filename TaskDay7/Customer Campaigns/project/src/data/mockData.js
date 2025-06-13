@@ -1,0 +1,80 @@
+export const mockCampaignsData = [
+  {
+    "id": "cmp001",
+    "campaignName": "Summer Sale Promo",
+    "customerName": "ABC Fashions",
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-20",
+    "platforms": ["Facebook", "Instagram"],
+    "tasksAssigned": 120,
+    "tasksCompleted": 95,
+    "status": "Active",
+    "impressions": 15000,
+    "performanceRating": 4.5
+  },
+  {
+    "id": "cmp002",
+    "campaignName": "New Product Launch",
+    "customerName": "TechX Innovations",
+    "startDate": "2025-05-01",
+    "endDate": "2025-05-15",
+    "platforms": ["Twitter", "LinkedIn"],
+    "tasksAssigned": 80,
+    "tasksCompleted": 80,
+    "status": "Completed",
+    "impressions": 22000,
+    "performanceRating": 5.0
+  },
+  {
+    "id": "cmp003",
+    "campaignName": "Monsoon Ad Blast",
+    "customerName": "RainWear Co.",
+    "startDate": "2025-06-15",
+    "endDate": "2025-06-25",
+    "platforms": ["YouTube", "Facebook"],
+    "tasksAssigned": 100,
+    "tasksCompleted": 0,
+    "status": "Scheduled",
+    "impressions": 0,
+    "performanceRating": null
+  },
+  {
+    "id": "cmp004",
+    "campaignName": "Holiday Special Campaign",
+    "customerName": "Gift Paradise",
+    "startDate": "2025-04-20",
+    "endDate": "2025-04-30",
+    "platforms": ["Instagram", "TikTok"],
+    "tasksAssigned": 150,
+    "tasksCompleted": 150,
+    "status": "Completed",
+    "impressions": 45000,
+    "performanceRating": 4.8
+  },
+  {
+    "id": "cmp005",
+    "campaignName": "Back to School Drive",
+    "customerName": "EduSupplies Inc",
+    "startDate": "2025-06-01",
+    "endDate": "2025-06-30",
+    "platforms": ["Facebook", "YouTube", "LinkedIn"],
+    "tasksAssigned": 200,
+    "tasksCompleted": 145,
+    "status": "Active",
+    "impressions": 28000,
+    "performanceRating": 4.2
+  },
+  {
+    "id": "cmp006",
+    "campaignName": "Fitness Challenge 2025",
+    "customerName": "FitLife Gym",
+    "startDate": "2025-03-01",
+    "endDate": "2025-03-31",
+    "platforms": ["Instagram", "Facebook", "TikTok"],
+    "tasksAssigned": 180,
+    "tasksCompleted": 180,
+    "status": "Completed",
+    "impressions": 67000,
+    "performanceRating": 4.9
+  }
+];
